@@ -1,0 +1,20 @@
+/* Portfolio Components */
+.my-container {
+  @apply w-full;
+  @apply max-w-4xl;
+  @apply mx-auto;
+}
+
+.tag {
+  @apply px-2 text-sm text-gray-600 bg-gray-300 rounded;
+}
+
+.card {
+  @apply p-4 rounded-lg shadow-lg;
+}
+
+@screen md {
+  .card {
+    @apply p-8;
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BugTracker",
+    "date": "Jan 2020 - Present",
+    "shortDesc": "Simple issue tracking with authentication",
+    "longDesc": "The BugTracker is a work in progress. It's modeled off of JIRA or Azure DevOps as a way for teams to track incoming issues, assign them priorities, manage team members assigned, and track progress.",
+    "tech_stack": ["MySQL", "React", "Next.js", "Auth0", "Vercel"]
+  },
+  {
+    "name": "Todoist Clone",
+    "date": "Oct. 2019 - Present",
+    "shortDesc": "Recreate the impressive functionality of Todoist",
+    "longDesc": "The Todoist clone is a work in progress. It was originally built as a practice project in Code Sandbox, but grew into something significant that I wanted to continue working on.",
+    "tech_stack": ["React", "MySQL", "Express", "Heroku"]
+  }
+]
