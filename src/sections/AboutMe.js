@@ -1,5 +1,4 @@
 import React from "react";
-// TODO import FA user icon
 
 const AboutMe = () => {
   return (
@@ -8,21 +7,22 @@ const AboutMe = () => {
         <h2 className="font-bold text-primary">About Me</h2>
         <h4>Hello, and welcome!</h4>
         <p>
-          Hi, I'm Devon Martin and I'm a software developer from San Jose, CA. I currently work for Chevron as a
-          Software Engineer, but enjoying doing freelance web development for private clients on the side. I created
-          this website to showcase the things I can do and plan to do.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem impedit reiciendis
+          eius totam nihil cum voluptate necessitatibus corporis, odio quod placeat? Culpa sapiente
+          dolores pariatur dolorem atque magni accusamus voluptas.
         </p>
         <p>
-          I first got into programming because computers have always fascinated me. I started my journey making tiny toy
-          apps in Python while in high school. Unfortunately, my school did not offer any computer science courses, so I
-          taught myself the basics of programming through online material. I then went to Cal Poly, San Luis Obispo
-          where I had an awesome time getting my Bachelor's Degree in Software Engineering. Since then, I've been
-          working at Chevron on everything from in-house .NET applications, to Azure cloud migrations, and now I am
-          starting a new role working with Python to contirubute to Data Science and Machine Learning project.
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo, expedita odit. Provident
+          voluptates totam, sequi vitae possimus praesentium quaerat id adipisci commodi nam non
+          officia quos ipsam quod, autem iste? Iure, pariatur sapiente laborum repellat tenetur
+          accusamus, ea reprehenderit earum quaerat minima velit voluptatum maiores sequi. Quae
+          cupiditate omnis distinctio, recusandae aperiam nihil quas dolores qui, sapiente nostrum
+          dolore ratione.
         </p>
         <p>
-          This website serves as an all-in-one place to get a sense of who I am and where I'm heading. If you like what
-          you see, navigate to the contact section below and send me an email. I would love to hear from you!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates tenetur aliquam iure
+          eveniet earum explicabo, dolore deserunt, architecto corporis facere provident eaque autem
+          repudiandae nisi accusantium ratione facilis consequatur. Et.
         </p>
       </div>
     </section>
